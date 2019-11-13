@@ -3,9 +3,11 @@ ForEST is a domain-specific language FOR Expressing Spatial-Temporal (FOREST) co
 
 #  Binder Demonstrations
 Main repo:
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eshook/Forest/master)
 
 Local fork:
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AdamStank/Forest/master)
 
 ## ForEST refactoring for growth
