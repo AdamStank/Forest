@@ -2,6 +2,9 @@
 ForEST is a domain-specific language FOR Expressing Spatial-Temporal (FOREST) computation. Essentially, for GIScientists ForEST makes it easy to parallelize spatial-temporal computing using Python as the host language. For computational scientists, it makes it easy to test new ways to parallelize spatial and spatial-temporal methods using spatial domain decomposition or functional decomposition. 
 
 #  Binder Demonstrations
+Main repo:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eshook/Forest/master)
+Local fork:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eshook/Forest/master)
 
 ## ForEST refactoring for growth
