@@ -4,8 +4,9 @@ ForEST is a domain-specific language FOR Expressing Spatial-Temporal (FOREST) co
 #  Binder Demonstrations
 Main repo:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eshook/Forest/master)
+
 Local fork:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eshook/Forest/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AdamStank/Forest/master)
 
 ## ForEST refactoring for growth
 Sorry if things are broken right now. We are refactoring the code in ForEST. To make code commitments from external projects easier (most behind the scenes right now) we are changing some of the file structure and import process in ForEST. Right now the public repository is a bit behind and slightly broken. We are retooling and refactoring the 'core' of ForEST versus the 'add-ons' and extra 'capabilities' for different projects. This will streamline the development process without requiring a growing list of package dependencies. Hopefully we will have this fixed in a week or three, but this will make it much easier for ForEST to grow and interface with other packages such as [PySAL](https://pysal.readthedocs.io/en/latest/) so we can play nice with the rich (open source and commercial) geospatial software ecosystem.
